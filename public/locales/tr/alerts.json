@@ -1,16 +1,16 @@
 {
-  "authFailed": "Authentication failed",
-  "loginAgain": "You must log in again!",
-  "serviceUnavailable": "Service unavailable",
-  "unexpectedError": "Unexpected error",
-  "lastfmUnavailable": "Last.fm isn't responding, please try again later.",
-  "settingsSavedSuccessfully": "Your settings were saved successfully!",
+  "authFailed": "Doğrulama sağlanamadı",
+  "loginAgain": "Tekrar giriş yapmanız gerekmekte.",
+  "serviceUnavailable": "Servis meşgul",
+  "unexpectedError": "Beklenmeyen hata",
+  "lastfmUnavailable": "Last.fm yanıt vermiyor. Lütfen daha sonra tekrar deneyin.",
+  "settingsSavedSuccessfully": "Ayarlarınız başarıyla kaydedildi!",
   "loginError": {
-    "title": "Error logging in",
-    "message": "There was an unexpected error logging in. Sorry about that!"
+    "title": "Giriş yapma hatası",
+    "message": "Girişle ilgili beklenmeyen bir hata oluştu. Özür dileriz."
   },
   "logoutInfo": {
-    "title": "See you soon!",
-    "message": "Successfully logged out."
+    "title": "Tekrar görüşmek üzere!",
+    "message": "Başarıyla çıkış yapıldı."
   }
 }
